@@ -1,0 +1,24 @@
+{
+  "name": "sampleNodeApp",
+  "version": "1.0.0",
+  "description": "this is a basic node js app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Riturajcse/sampleNodeApp"
+  },
+  "author": "Rituraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riturajcse/sampleNodeApp/issues"
+  },
+  "homepage": "https://github.com/Riturajcse/sampleNodeApp"
+}
